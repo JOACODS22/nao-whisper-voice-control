@@ -1,0 +1,9 @@
+openai-whisper
+sounddevice
+scipy
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+openpyxl
