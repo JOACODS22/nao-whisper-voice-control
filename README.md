@@ -64,7 +64,7 @@ python metricas_nao.py
 | siéntate | 60% |
 | **Global** | **73.3%** |
 
-![Resultados](image.png)
+![Resultados](media/imagen.png)
 
 ## Limitaciones
 
